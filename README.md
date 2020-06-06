@@ -1,4 +1,4 @@
-# Uninstall docker with only 1 Click
+# Uninstall docker with only 1 Command
 
 After uninstalling docker you are left with a lot of registry and other files. Which is very hard to find or troublesome to remove. That's where this script shines. 
 
